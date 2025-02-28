@@ -1,1 +1,1 @@
-# admin-dashboard
+In this project I understand that making web-pages is very cool and interesting, I repeat knowledges about flex-box and other imnportant basic css elements. And learn really power of grid and its elements
