@@ -257,6 +257,12 @@ input{
     background-color: var(--grey-col);
     margin-left: 16px;
     margin-right: 13%;
+    outline: none;
+}
+
+input:focus{
+    font-size: 16px;
+    border: 2px solid var(--blue-col);
 }
 
 .header-top>p{
